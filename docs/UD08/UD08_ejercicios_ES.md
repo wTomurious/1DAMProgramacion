@@ -246,7 +246,7 @@
     ```java
     public static void main(String[] args){
         Montador m1 = new Carpintero();
-        ontador m2 = new Albanyil();
+        Montador m2 = new Albanyil();
         Obrero o1 = new Carpintero();
         Obrero o2 = new Albanyil();
         o1.montar("Mesa");
